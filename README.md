@@ -2,7 +2,7 @@
 关于一篇经典的---认知任务量的深度学习解码方法
 
 
-详细说明：[EEG-Decoding-Cognition](https://github.com/lwlBCI/EEG-Decoding/blob/main/%E8%84%91%E7%94%B5%E4%BF%A1%E5%8F%B7%E8%A7%A3%E7%A0%81%E7%9A%84%E8%AF%81%E6%8D%AE.md)
+详细说明：[EEG-Decoding-Cognition](https://github.com/lwlBCI/EEG-Decoding-Cognition/blob/main/%E7%BB%8F%E5%85%B8%E7%9A%84EEG%2BDL.md)
 
 **如遇到任何问题，请联系：**
 
