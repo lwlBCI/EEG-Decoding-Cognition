@@ -94,6 +94,8 @@
 
 :love_letter:当然，文章的原作者在此[![BXL](https://img.shields.io/github/followers/pbashivan?label=pbashivan&style=social)](https://github.com/pbashivan)
 
+😂:另外，关于所需要用到的数据，上面两位作者的仓库中都有，由于上传的文件大小和时间问题我就不上传了，大家可以去自行下载，如果实在实在不想去可以联系我获取！
+
 :heart_eyes:感谢这三位作者所提供的代码及数据！
 
 ## 总结
